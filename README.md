@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Uday Mistry 👋
 
-<!--
-**Uday2610-coder/Uday2610-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+- Software Engineer Trainee at **Tripearltech**
+- D365 Technical Consultant (CRM, Power Apps)
+- Ex .NET Full Stack Intern
+- Passionate about building enterprise & CRM solutions
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- Microsoft D365 CRM & Power Platform
+- C#, .NET Core, ASP.NET MVC
+- HTML, CSS, JavaScript
+- SQL Server
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Work
+- D365 CRM Tasks (Plugins, JS, Power Automate)
+- Guest House Booking App (.NET Core + SQL Server)
+- Portfolio Website
+
+## 📫 Connect with Me
+- GitHub: https://github.com/Uday2610-coder
