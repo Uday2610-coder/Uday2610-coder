@@ -14,7 +14,7 @@
 ---
 
 ## 👨‍💻 About Me
-- 💼 Software Engineer Trainee at **Tripearltech**
+- 💼 Associate Software Engineer at **Tripearltech**
 - 🧠 D365 Technical Consultant (CRM, Power Apps)
 - 🛠 Ex .NET Full Stack Intern
 - 🔥 Building scalable CRM & enterprise solutions
